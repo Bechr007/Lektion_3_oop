@@ -31,6 +31,11 @@ public class Main {
             System.out.println("jag är pigg idag");
         }
 
+        TestingGit eH = new TestingGit(201, "Economic History");
+
+        System.out.println(eH.bookName);
+        System.out.println(eH.pageNumber);
+
 /* //ADDITION
         //way 1 - returns data
         System.out.println(addition1(120, 293));
