@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("is this the first commit?");
+
         //instantiate object
         //related to java class 'Student'
         Student theAmerican = new Student("Benny", 15, true);
